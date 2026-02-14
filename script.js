@@ -57,7 +57,7 @@ const messages = [
     "Thiệt hỏ ?",
     "Em chắc chưa 😑",
     "Hả 😠",
-    "Đồng ý nha ",
+    "Đồng ý nha 🙄",
     "Suy nghĩ chút đi mà 🙄",
     "A buồn thì sao 😭",
     "A buồn thì sao 😭😭",
