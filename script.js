@@ -54,17 +54,17 @@
 })();
 */
 const messages = [
-    "Thiệt hỏ?",
-    "Em chắc chưa??",
-    "Hả?",
-    "Đồng ý nha",
-    "Suy nghĩ chút đi!",
-    "A buồn thì sao :((",
-    "A buồn thì sao :(((",
-    "A buồn thì sao :((((",
-    "A buồn thì sao :(((((",
-    "E cố chấp thế :)",
-    "Thôi a ko hỏi nx :(",
+    "Thiệt hỏ 😑",
+    "Em chắc chưa 😑",
+    "Hả 😠",
+    "Đồng ý nha ",
+    "Suy nghĩ chút đi mà 🙄",
+    "A buồn thì sao 😭",
+    "A buồn thì sao 😭😭",
+    "A buồn thì sao 😭😭😭",
+    "A buồn thì sao 😭😭😭😭",
+    "E cố chấp thế  🙂",
+    "Thôi a ko hỏi nx 😔",
     "Đùa đấy, đồng ý đi mà ❤️"
 ];
 
