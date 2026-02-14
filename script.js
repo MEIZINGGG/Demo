@@ -54,7 +54,7 @@
 })();
 */
 const messages = [
-    "Thiệt hỏ 😑",
+    "Thiệt hỏ ?",
     "Em chắc chưa 😑",
     "Hả 😠",
     "Đồng ý nha ",
